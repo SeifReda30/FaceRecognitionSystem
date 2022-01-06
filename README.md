@@ -3,4 +3,7 @@ Artificial Intelligence course project made with python and machine learning mod
 
 The Dataset used is available on kaggle : https://www.kaggle.com/seifreda/5-celebrities-dataset
 
-you can add sounds in the GUI part to introduce the celebrity name on recognizing him before showing his name
+You can collect the dataset images in one folder with training set images and testing set images (respectively) and insert labeled images in the database 
+then retrieve the dataset in the project splitted into X_train & y_train & X_text & y_test
+
+You can add sounds in the GUI part to introduce the celebrity name on recognizing him before showing his name
