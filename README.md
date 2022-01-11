@@ -1,7 +1,7 @@
 # FaceRecognitionSystem
 Artificial Intelligence course project made with python to recognize and classify the face of the image with 5 celebrities.
 
-Machine learning models used : Radnom Forest & Desicion Tree
+Machine learning models used : Random Forest & Desicion Tree
 
 The Dataset used is available on kaggle : https://www.kaggle.com/seifreda/5-celebrities-dataset
 
